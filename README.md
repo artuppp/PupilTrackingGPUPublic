@@ -28,5 +28,5 @@ Welcome to the **Pupil Tracking GPU** repository! This project is designed to le
 
 Run the main script to test tracking:
 ```bash
-./build/pupil_tracking resources/testimage1.png <measure_time(1|0)> <gpu|cpu> <num_repetitions> <else|else_greedy_i|else_greedy_ii|excuse|excuse_greedy_i|excuse_greedy_ii>
+./build/pupil_tracking resources/testimage1.png <(measure_time)1|0> <(platform)gpu|cpu> <num_repetitions> <(algorithm)else|else_greedy_i|else_greedy_ii|excuse|excuse_greedy_i|excuse_greedy_ii>
 ```
