@@ -1,6 +1,7 @@
 # Pupil Tracking GPU
 
 Welcome to the **Pupil Tracking GPU** repository! This project is designed to leverage GPU acceleration for efficient and accurate pupil tracking in real-time applications. Whether you're working on eye-tracking research, human-computer interaction, or medical diagnostics, this repository provides a robust foundation for your needs.
+> **Disclaimer**: This software is developed by the University of Murcia and is intended solely for academic and research purposes. It must not be used for commercial or business applications.
 
 ## Features
 

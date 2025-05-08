@@ -1,8 +1,5 @@
 /*
   Version 1.0, 08.06.2015, Copyright University of Tübingen.
-  The Code is created based on the method from the paper:
-  "ExCuSe: Robust Pupil Detection in Real-World Scenarios", W. Fuhl, T. C. Kübler, K. Sippel, W. Rosenstiel, E. Kasneci
-  CAIP 2015 : Computer Analysis of Images and Patterns
   The code and the algorithm are for non-comercial use only.
 
    The code is parallelized using CUDA and CUBLAS by Arturo Vicente Jaén. 05/04/2023. Copyrigth University of Murcia.

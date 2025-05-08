@@ -1,8 +1,5 @@
 /*
   Version 1.0, 17.12.2015, Copyright University of Tübingen.
-  The Code is created based on the method from the paper:
-  "ElSe: Ellipse Selection for Robust Pupil Detection in Real-World Environments", W. Fuhl, T. C. Santini, T. C. Kübler, E. Kasneci
-  ETRA 2016 : Eye Tracking Research and Application 2016
   The code and the algorithm are for non-comercial use only.
 
   The code is parallelized using CUDA and CUBLAS by Arturo Vicente Jaén. 14/04/2023. Copyrigth University of Murcia.
