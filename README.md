@@ -36,7 +36,7 @@
 
 <p align="center">
   <!-- TODO: Add a cool GIF or screenshot of the tracker in action! -->
-  <img src='https://umubox.um.es/remote.php/webdav/VR4D.gif' width='1000'>
+  <img src='pupilTracking.gif' width='800'>
   <!-- <i>A placeholder for a demonstration GIF or image.</i> -->
 </p>
 
