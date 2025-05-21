@@ -36,7 +36,7 @@
 
 <p align="center">
   <!-- TODO: Add a cool GIF or screenshot of the tracker in action! -->
-  <img src='https://univmurcia-my.sharepoint.com/:i:/g/personal/arturo_vicentej_um_es/ER33LoS62rNLlU2OGk7VTYUBnuzMtSwkXQRi-Nn0wDNabQ?e=BfDwxp' width='750'>
+  <img src='https://umubox.um.es/remote.php/webdav/VR4D.gif' width='1000'>
   <!-- <i>A placeholder for a demonstration GIF or image.</i> -->
 </p>
 
